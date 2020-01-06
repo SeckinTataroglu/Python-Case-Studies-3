@@ -8,7 +8,9 @@ Suppose you have a message in English of a sufficient length, say 100 charachter
 
 The following string contains all of the printable characters found on most keyboards, so it can be used for turning the message into integers:
 
+```python
 all_char = string.printable
+```
 
 so that letter 'c' corresponds to index `12` in `all_char`. 
 
