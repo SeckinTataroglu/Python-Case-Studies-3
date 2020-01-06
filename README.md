@@ -1,4 +1,3 @@
-```python
 
 # Python-Case-Studies-3
 
