@@ -8,9 +8,9 @@
 Suppose you have a message in English of a sufficient length, say 100 charachters. The goal of this task will be to turn that text into a list of integers, encode it by applying an operation on the indexes, and then decode it back to reproduce the original message. You can think of this as an exercise in making a message secret by encoding it and then decoding it.
 
 The following string contains all of the printable characters found on most keyboards, so it can be used for turning the message into integers:
-```python
+
 all_char = string.printable
-```
+
 so that letter 'c' corresponds to index `12` in `all_char`. 
 
 In the cell below, write a piece of code that will do the following work:
